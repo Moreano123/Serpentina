@@ -1,0 +1,14 @@
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\obj\Debug\AlgoritmoC.csproj.AssemblyReference.cache
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\obj\Debug\AlgoritmoC.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Patrick\source\repos\SolMCD4numeros\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\obj\Debug\AlgoritmoC.csproj.AssemblyReference.cache
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\obj\Debug\AlgoritmoC.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MIGUEL\Documents\SolMCD4numeros\SolMCD4numeros\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
